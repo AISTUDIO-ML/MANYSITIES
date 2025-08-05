@@ -55,3 +55,15 @@ CI/CD workflows zip contains:
 Included Workflows:
 • backend.yml: CI/CD for FastAPI + Celery + Redis
 • frontend.yml: CI/CD for React + TypeScript with Vercel deployment placeholder
+
+Deployement  zip contains:
+Included:
+• ✅ Terraform scripts for:
+    • Azure
+    • AWS
+    • GCP
+• 🐚 Shell scripts to automate deployment for:
+    • Backend (FastAPI)
+    • Frontend (React)
+    • Redis
+Each cloud provider has its own folder with infrastructure-as-code and deployment automation.

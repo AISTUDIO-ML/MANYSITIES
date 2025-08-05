@@ -67,3 +67,13 @@ Included:
     • Frontend (React)
     • Redis
 Each cloud provider has its own folder with infrastructure-as-code and deployment automation.
+
+Production deployement zip contains:
+🔐 What's Included:
+• Terraform scripts for:
+    • Azure
+    • AWS
+    • GCP
+• Secrets management via environment variables and GitHub Secrets
+• Shell scripts for automated deployment
+• GitHub Actions CI/CD workflow for production deployment

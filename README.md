@@ -43,3 +43,10 @@ manysities/
 5. Auto-Teardown
 • Scheduled job to remove underperforming sites
 ⸻
+
+Deployement zip file contains:
+This includes:
+• ✅ Backend: FastAPI + Celery + Redis
+• 🎨 Frontend: React + TypeScript
+• 🚀 Deployment Automation: Vercel API-ready structure
+• 🐳 Dockerized Setup: Dockerfiles and docker-compose.yml

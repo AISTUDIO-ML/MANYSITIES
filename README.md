@@ -77,3 +77,8 @@ Production deployement zip contains:
 • Secrets management via environment variables and GitHub Secrets
 • Shell scripts for automated deployment
 • GitHub Actions CI/CD workflow for production deployment
+
+Production deployment zip 1 contains:
+Add monitoring/logging (e.g., Prometheus, Grafana)
+• Set up domain routing (e.g., with Cloudflare or Route 53)
+• Configure autoscaling or load balancing

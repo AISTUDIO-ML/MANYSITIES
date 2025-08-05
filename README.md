@@ -50,3 +50,8 @@ This includes:
 • 🎨 Frontend: React + TypeScript
 • 🚀 Deployment Automation: Vercel API-ready structure
 • 🐳 Dockerized Setup: Dockerfiles and docker-compose.yml
+
+CI/CD workflows zip contains:
+Included Workflows:
+• backend.yml: CI/CD for FastAPI + Celery + Redis
+• frontend.yml: CI/CD for React + TypeScript with Vercel deployment placeholder
